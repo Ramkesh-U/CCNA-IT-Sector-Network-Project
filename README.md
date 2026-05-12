@@ -1,7 +1,11 @@
-# IT Sector Network Project
- About
-
-The project was created using Cisco Packet Tracer by connecting routers, switches, PCs, and servers in a small IT sector network topology. Static routing was used for communication between networks, and Inter VLAN Routing was configured to allow VLAN communication. SSH and Telnet were used for remote access, while TACACS+ provided authentication and security. PAgP was used for EtherChannel configuration, HTTPS for secure web access, and Syslog for network monitoring. All devices were tested using ping and other verification commands to ensure the network was working correctly.
+ IT Sector Network Project
+About:
+This project is a small IT sector company network created using Cisco Packet Tracer.
+The network was designed to connect different departments and allow secure communication between multiple devices and networks.
+The project uses routers, switches, PCs, and servers to simulate a real company environment. Static routing was used to connect different networks, and Inter VLAN Routing was configured for communication between VLANs.
+Security features like SSH, Telnet, TACACS+, HTTPS, ACL, and Syslog were also configured to improve network management and protection. PAgP was used for EtherChannel connection between switches.
+The network allows devices from different departments to communicate securely, access servers, and transfer data successfully. VPN and security configurations help protect communication between networks.
+All connections and services were tested using ping commands and verification tools to make sure the network works correctly.
  
  Protocols & Technologies Used
 
